@@ -148,3 +148,14 @@ We can see that the results of applying the Weighted Average technique have impr
 ## Conclusion
 
 Overall, this study demonstrates the successful application of machine learning techniques to the house price prediction problem, providing insights into the factors influencing house prices and enabling more informed decision-making in the real estate market.
+
+## Contribution
+
+This project is a collaborative effort, and we would like to acknowledge the contributions of the following individuals:
+
+- Vo Thi Khanh Linh
+- Nguyen Nhat Minh Thu
+- Nguyen Dang Anh Thu
+- Pham Duy Son
+
+We would like to express our gratitude to all the contributors for their hard work and dedication to this project. Without their efforts, this project would not have been possible.
