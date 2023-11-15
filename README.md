@@ -5,7 +5,7 @@
 ### Project Description
  > This practical final project is part of the Introduction to Data Science course in the field of Data Science at VNUHCM - University of Science.
 
-House Price Prediction Problem is a task of estimating the value of real estate based on various factors. It involves building and developing a model or algorithm that can predict prices based on property attributes.
+House Price Prediction Problem is a task of estimating the value of real estate based on various features. It involves building and developing a model or algorithm that can predict prices based on property attributes.
 
 The goal of house price prediction is to provide a reliable estimate of the buying or selling price for buyers, sellers, real estate agents, or financial institutions to make informed decisions in transactions. By analyzing past and current buying and selling transactions in the market, considering factors such as location, size, number of rooms in the property, amenities in the neighborhood, and market trends, prediction models are built and trained to accurately estimate the price of a house.
 
